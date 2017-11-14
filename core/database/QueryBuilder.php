@@ -29,6 +29,5 @@ class QueryBuilder
 		} catch (Exception $e) {
 			die('Whoops something went wrong');
 		}
-		// die(var_dump($sql));
 	}
 }
